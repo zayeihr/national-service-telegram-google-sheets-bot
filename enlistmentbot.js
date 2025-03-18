@@ -1,7 +1,7 @@
 // Telegram Bot Token and URLs
-var token = "5434506171:AAHR79rg6v-WZsmqn6DTMGQYfYSxEqmsUI8"; // Your Telegram Bot token
+var token = ""; // Your Telegram Bot token
 var telegramUrl = "https://api.telegram.org/bot" + token; // Base URL for Telegram Bot API
-var webAppUrl = "https://script.google.com/macros/s/AKfycbyJf1hs3tYnQbkT2feu9bxcm9FuL0CBBL5zrlfTdaLit7lOR72soakjcSr8pISBFL88/exec"; // URL for the deployed Google Apps Script
+var webAppUrl = ""; // URL for the deployed Google Apps Script
 
 // Google Sheets ID
 var ssId = ""; // Google Sheets ID
