@@ -4,7 +4,7 @@ var telegramUrl = "https://api.telegram.org/bot" + token; // Base URL for Telegr
 var webAppUrl = "https://script.google.com/macros/s/AKfycbyJf1hs3tYnQbkT2feu9bxcm9FuL0CBBL5zrlfTdaLit7lOR72soakjcSr8pISBFL88/exec"; // URL for the deployed Google Apps Script
 
 // Google Sheets ID
-var ssId = "18P47EVP3fkWeu0mDHQ6vdNwmCMhnKhDil_SAEX8WBbY"; // Google Sheets ID
+var ssId = ""; // Google Sheets ID
 
 // Function to get bot information
 function getMe() {
